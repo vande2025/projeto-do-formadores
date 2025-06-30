@@ -27,3 +27,8 @@ console.log(frutas[0])maça
 console.log(frutas[2])caju
 
 console.log(frutas)['maça', 'banana', 'caju']
+
+let estudantes = ["Ana", "Bruno", "Carlos", "Daniela", "Eduardo"];
+for (let i = 0; i < estudantes.length; i++) {
+  console.log(estudantes[i]);
+}
